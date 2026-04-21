@@ -1,0 +1,18 @@
+.env
+.env.*
+*.log
+bin/
+dist/
+
+# Editors and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Local credentials and exported data
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+status*.json
