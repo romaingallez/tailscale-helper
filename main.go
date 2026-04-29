@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"tailscale_helper/cmd"
+	"github.com/romaingallez/tailscale-helper/cmd"
 )
 
 func init() {

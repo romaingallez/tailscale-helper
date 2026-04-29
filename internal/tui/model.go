@@ -8,7 +8,7 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"tailscale_helper/internal/tailscale"
+	"github.com/romaingallez/tailscale-helper/internal/tailscale"
 )
 
 type Client interface {

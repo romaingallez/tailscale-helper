@@ -4,7 +4,7 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"tailscale_helper/internal/tailscale"
+	"github.com/romaingallez/tailscale-helper/internal/tailscale"
 )
 
 func StatusTable(status tailscale.Status) string {

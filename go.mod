@@ -1,4 +1,4 @@
-module tailscale_helper
+module github.com/romaingallez/tailscale-helper
 
 go 1.26.2
 

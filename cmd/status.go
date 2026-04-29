@@ -7,8 +7,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"tailscale_helper/internal/render"
-	"tailscale_helper/internal/tailscale"
+	"github.com/romaingallez/tailscale-helper/internal/render"
+	"github.com/romaingallez/tailscale-helper/internal/tailscale"
 )
 
 func newStatusCmd() *cobra.Command {

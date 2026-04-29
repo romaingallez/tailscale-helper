@@ -9,7 +9,7 @@ import (
 
 	"github.com/charmbracelet/lipgloss"
 
-	"tailscale_helper/internal/tailscale"
+	"github.com/romaingallez/tailscale-helper/internal/tailscale"
 )
 
 func (m model) View() string {

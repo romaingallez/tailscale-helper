@@ -3,8 +3,8 @@ package cmd
 import (
 	"github.com/spf13/cobra"
 
-	"tailscale_helper/internal/tailscale"
-	app "tailscale_helper/internal/tui"
+	"github.com/romaingallez/tailscale-helper/internal/tailscale"
+	app "github.com/romaingallez/tailscale-helper/internal/tui"
 )
 
 func newTUICmd() *cobra.Command {
